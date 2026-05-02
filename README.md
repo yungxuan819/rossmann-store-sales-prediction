@@ -116,7 +116,7 @@ jupyter notebook script.ipynb
 
 ## 📝 Notes
 
--
+- `train.csv` is **37MB**, therefore cannot be uploaded - users are advised to download them through the official Kaggle link
 - `sales_model.pkl` is **326MB** — if it cannot be opened from GitHub, download it directly and place it in the project folder
 - Power BI Desktop (free) is required to open the `.pbix` file — download at [powerbi.microsoft.com](https://powerbi.microsoft.com)
 - Python must be enabled in Power BI Desktop under **File → Options → Python Scripting**
