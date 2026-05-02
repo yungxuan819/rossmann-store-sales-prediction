@@ -21,7 +21,7 @@ The project covers the full data science pipeline:
 
 > Screenshots of the Power BI dashboard
 
-![Dashboard Overview](screenshots/dashboard_overview.png)
+![Dashboard Overview](dashboard_overview.png)
 
 ---
 
